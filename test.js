@@ -1,1 +1,1 @@
-alert('new alert github')
+console.log('...')
